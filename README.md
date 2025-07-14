@@ -1,2 +1,2 @@
 # leaderboard-frontend
-This includes the react code for frontend section of leaderboard app.
+This includes the backend section of this app which is build on Node.js
